@@ -1,4 +1,4 @@
-# 
+# 自动 Paint.NET 插件 Mac OS版 | 智能 Paint.NET 插件 PC Windows版。集成 书法工具 和 合成，跨平台性能最大化。
 
 
 
